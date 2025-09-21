@@ -2,4 +2,4 @@
 
 Link to video - https://youtu.be/yyUHQIec83I?si=JYHXD9IwODj-IwGP
 
-
+Lessons for learning Go are taught through building a CLI app for booking tickets. 
